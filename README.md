@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am an aspiring AI professional with a strong foundation in computer science and a deep interest in how <br>artificial intelligence can transform the way we solve problems. My learning journey has covered areas such as algorithms, operating systems, and programming, and I am now channelizing that knowledge into building expertise in AI and machine learning.
 
 
